@@ -1,0 +1,63 @@
+BODY {
+	MARGIN-TOP: 0px; BACKGROUND: url(quad.gif) white; MARGIN-LEFT: 0px
+}
+BODY.CorpoTabela {
+	BACKGROUND: #d0d0d0
+}
+A {
+	VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+A.MenuPag:link {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: yellow; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.MenuPag:visited {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: yellow; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.MenuPag:unknown {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.MenuPag:active {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.MenuPag:hover {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.LinkTexto:link {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.LinkTexto:visited {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.LinkTexto:unknown {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.LinkTexto:active {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.LinkTexto:hover {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+FONT.BarraMenuPagina {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; COLOR: yellow; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+FONT.Titulo1 {
+	FONT-WEIGHT: 900; FONT-SIZE: 20px; VERTICAL-ALIGN: middle; COLOR: blue; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+FONT.Titulo2 {
+	FONT-WEIGHT: 900; FONT-SIZE: 25px; COLOR: red; BACKGROUND-COLOR: transparent; TEXT-ALIGN: center
+}
+FONT.Texto1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 20px; VERTICAL-ALIGN: middle; COLOR: black; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+FONT.Texto2 {
+	FONT-SIZE: 14px; VERTICAL-ALIGN: middle; COLOR: black; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+FONT.Texto3 {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; COLOR: blue; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+TD.CelulaMenuData {
+	FONT-WEIGHT: 900; FONT-SIZE: 12px; VERTICAL-ALIGN: bottom; COLOR: white; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: black; TEXT-ALIGN: right
+}
+TD.CelulaMenu {
+	VERTICAL-ALIGN: middle; BACKGROUND-COLOR: black
+}

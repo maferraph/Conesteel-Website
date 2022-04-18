@@ -1,0 +1,322 @@
+a.aba {
+	color : #004F9D;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.aba2{
+	color : #004F9D;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+
+a.aba:hover {
+	color : Black;
+}
+
+a.destaque {
+	color : #D90000;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+
+a.menu {
+	color : #3E3E3E;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.menu:hover {
+	color : #004B97;
+	text-decoration : underline;
+}
+
+a.form_link {
+	color : #404040;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.form_link:hover {
+	color : Maroon;
+	text-decoration : underline;
+}
+
+a.texto1 {
+	color : #4F4F4F;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.texto2 {
+	color : #3C1E00;
+	font-family : "Trebuchet MS";
+	font-size : 10.5pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.texto3 {
+	color : Black;
+	font-family : "Trebuchet MS";
+	font-size : 10.5pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.textop {
+	color : Black;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : none;
+}
+
+a.mais{
+	color : #004E9B;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : underline;
+}
+
+a.mais:hover {
+	color : Gray;
+}
+
+a.mais2{
+	color : #0059B3;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : underline;
+}
+
+a.mais2:hover {
+	color : Gray;
+}
+
+
+a.formulario{
+	color : #004E9B;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-weight : normal;
+}
+
+a.con{
+	color : #0061C1;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con:hover {
+	color : Gray;
+}
+
+a.con1{
+	color : #5C5C5C;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con1:hover {
+	color : #5C5C5C;
+}
+a.con2{
+	color : #D20000;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con2:hover {
+	color : Gray;
+}
+
+a.con3{
+	color : #007100;
+	font-family : "Trebuchet MS";
+	font-size : 15pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con3:hover {
+	color : Gray;
+}
+
+a.con4{
+	color : #004F9D;
+	font-family : "Trebuchet MS";
+	font-size : 15pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con4:hover {
+	color : Gray;
+}
+
+a.con5{
+	color : #004F9D;
+	font-family : "Trebuchet MS";
+	font-size : 13pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+a.con5:hover {
+	color : Gray;
+}
+
+
+a.titulo_branco{
+	color : White;
+	font-family : "Trebuchet MS";
+	font-size : 11pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+
+}
+
+a.titulo_branco2{
+	color : White;
+	font-family : "Trebuchet MS";
+	font-size : 10pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : bolder;
+}
+
+
+a.titulo2{
+	color : White;
+	font-family : "Trebuchet MS";
+	font-size : 13pt;
+	border-top-style : none;
+	text-decoration : none;
+	font-style : inherit;
+	font-weight : normal;
+}
+
+a.titulo2:hover {
+	color : Gray;
+}
+
+
+
+
+td.tabela1 {
+	width : inherit;
+	background-color : #FFFFF9;
+	border : 1px Black;
+	
+}
+
+
+input.normal { 
+font-family: Verdana;
+color: #474747; border: 1px solid #848484;
+font-size:10pt;
+background-color:#FFFFFF;
+background-image: url(imagens/fundo_imput.jpg); 
+border-color: #B9B9B9;
+ width : 200px;
+ }
+ 
+ input.ddd{ 
+font-family: Verdana;
+color: #474747; border: 1px solid #848484;
+font-size:10pt;
+background-color:#FFFFFF;
+background-image: url(imagens/fundo_imput.jpg); 
+border-color: #B9B9B9;
+ width : 25px;
+ }
+ 
+  input.tel{ 
+font-family: Verdana;
+color: #474747; border: 1px solid #848484;
+font-size:10pt;
+background-color:#FFFFFF;
+background-image: url(imagens/fundo_imput.jpg); 
+border-color: #B9B9B9;
+ width : 170px;
+ }
+
+textarea { 
+font-family: Verdana;
+color: #474747;
+border: 1px solid #848484;
+font-size:10pt; 
+background-color:#FFFFFF;
+background-image: url(imagens/fundo_text.jpg); 
+border-color: #B9B9B9;
+ width : 200px;
+ height : 100px;
+ }
+ 
+ select {
+font-family: Verdana;
+color: #565656;
+border: 1px solid #848484;
+font-size:10pt;
+background-color: #F5F5F5;
+border-color: #B9B9B9;
+width : 200px;
+}
+
+ selec.normal {
+font-family: Verdana;
+color: #565656;
+border: 1px solid #848484;
+font-size:10pt;
+background-color: #F5F5F5;
+border-color: #B9B9B9;
+width : 100%;
+}
+
+a.headerazul {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bolder;
+	color: #0057AE;
+	font-style: normal;
+}
